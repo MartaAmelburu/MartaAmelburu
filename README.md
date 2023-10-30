@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Marta, i'm located at Barcelona and i'm a UI / UX designer and Frontend developer. 👨‍💻</p>
+<p align="left">My name is Marta, i'm located at Barcelona </p>
 
 ###
 
