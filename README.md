@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">🎨 UI/UX Designer | 💻 Front-end Developer<br><br>🖌️ Specialized in user interface design and user experience.<br><br>🛠️ Tools: Figma, Adobe XD, HTML, CSS, JavaScript, React, Tailwind.<br><br>🚀 Passionate about creating engaging and functional digital experiences.</p>
+<p align="left">🎨 🖌️ A skilled UI/UX designer with a deep passion for creating intuitive and visually appealing user interfaces.
+
+🚀 Proficient in HTML, CSS, and JavaScript, with a focus on crafting seamless and interactive web experiences.
+
+💻 Experienced with designing in Figma and Adobe XD, and skilled in turning those designs into functional web applications using React and enhancing them with the power of Tailwind CSS.</p>
 
 ###
 
