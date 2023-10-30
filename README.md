@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Marta, i'm located at Barcelona </p>
+<p align="left">My name is Marta and i'm located at Barcelona </p>
 
 ###
 
