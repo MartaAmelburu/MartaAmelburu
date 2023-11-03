@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Marta and i'm a fullStack Designer located at Barcelona </p>
+<p align="left">My name is Marta and i'm a Full-Stack Designer located at Barcelona </p>
 
 ###
 
